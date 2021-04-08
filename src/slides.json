@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Mountains and fjords",
+    "images": [
+      "https://www.w3schools.com/howto/img_mountains_wide.jpg",
+      "https://www.w3schools.com/howto/img_5terre_wide.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Woods",
+    "images": [
+      "https://www.w3schools.com/howto/img_nature_wide.jpg",
+      "https://www.w3schools.com/howto/img_woods_wide.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Snowy Mountains",
+    "images": [
+      "https://www.w3schools.com/howto/img_snow_wide.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Northern Lights",
+    "images": [
+      "https://www.w3schools.com/howto/img_lights_wide.jpg"
+    ]
+  }
+]
